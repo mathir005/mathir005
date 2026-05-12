@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Mathir+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Mathir+%F0%9F%91%8B;Full+Stack+Developer+%7C+Cloud+Enthusiast;Building+Scalable+Applications+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
 </div>
 
@@ -19,19 +19,65 @@
 
 ### 👨‍💻 About Me
 
-```javascript
-const mathir = {
-    location: "Chennai, Tamil Nadu 🇮🇳",
-    currentFocus: "Full Stack Development",
-    learning: ["Cloud Architecture", "System Design", "AI/ML"],
-    askMeAbout: ["Web Dev", "Tech", "Cloud", "DevOps"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
+```yaml
+Name: Mathir
+Location: Chennai, Tamil Nadu 🇮🇳
+Title: Full Stack Developer | Cloud Enthusiast
+Focus: Building scalable cloud-native applications
+
+Languages:
+  - JavaScript
+  - TypeScript
+  - Python
+  - Java
+  - Go
+
+Frontend:
+  - React
+  - Next.js
+  - Vue.js
+  - TailwindCSS
+
+Backend:
+  - Node.js
+  - Express
+  - Django
+  - FastAPI
+
+Databases:
+  - MongoDB
+  - PostgreSQL
+  - MySQL
+  - Redis
+
+DevOps:
+  - AWS
+  - Docker
+  - Kubernetes
+  - Jenkins
+  - GitHub Actions
+
+Currently Learning:
+  - System Design
+  - Microservices
+  - AI/ML Integration
+
+Ask Me About:
+  - Web Development
+  - Cloud Architecture
+  - DevOps
+  - Open Source
 ```
+
+🔭 Currently working on exciting full-stack projects  
+🌱 Learning advanced cloud architecture and system design  
+👯 Looking to collaborate on open source projects  
+💬 Ask me about web development, cloud, and DevOps  
+⚡ Fun fact: I believe the best code is the code you don't have to write!
 
 <br/>
 
-### 🛠️ Tech Stack
+### 🚀 Projects & Domains I've Worked With
 
 #### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -199,11 +245,15 @@ Your fourth project with innovative features and solutions.
 
 ### 🎯 Current Goals for 2026
 
-- 🌟 Contribute to more Open Source projects
-- 📚 Master Cloud Architecture patterns
-- 🤖 Build AI-powered applications
-- 🎓 Complete AWS Solutions Architect certification
-- 📱 Launch a SaaS product
+```
+✅ Master System Design & Architecture Patterns
+✅ Contribute to 10+ Open Source Projects  
+✅ Build and Deploy 3 Production-Grade SaaS Applications
+✅ Achieve AWS Solutions Architect Certification
+✅ Write Technical Blogs & Share Knowledge
+✅ Learn Advanced Kubernetes & Service Mesh
+✅ Build AI-Powered Applications with Modern LLMs
+```
 
 ---
 
